@@ -1,7 +1,7 @@
-Bordarays, Precious Zyra C.
-Cervantes, Ceejay D.
-Dinglas, Xyrille Anne A.
-Dingle, Alexis Jean B.
+Precious Zyra C. Bordarays
+Ceejay D. Cervantes
+Xyrille Anne A. Dinglas
+Alexis Jean B. Dingle
 
 ![Docu3](https://github.com/Zeriyahh/Final-Project/assets/174437585/ca5ecf47-de78-41c8-b26e-616ee07f48d7)
 ![Docu1](https://github.com/Zeriyahh/Final-Project/assets/174437585/e9055589-acf0-4077-8afe-846c3f01dad9)
